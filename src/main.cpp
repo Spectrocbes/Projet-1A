@@ -1,6 +1,5 @@
 #include <Arduino.h>
 #include "Keyboard.h"
-#include "Keyboard_fr_FR.h"
 
 const int buttonPinMAC = 6;
 const int buttonPinWin = 7;
